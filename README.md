@@ -6,4 +6,10 @@ Pistahouse is my absolute favorite restaurant. It's a place where I can indulge 
 1. Pistahouse Special Biryani
 2. Chicken Biryani
 3. Hyderabadi Dum Biryani
+ ### Places to Visit Nearby
+- Local Park
+- Historical Landmark
+- Coffee Shop
+- Art Gallery
+- Shopping Mall
 
