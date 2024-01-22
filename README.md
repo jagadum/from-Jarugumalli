@@ -25,5 +25,12 @@ Embark on a musical journey through the heart of Telugu cinema with these carefu
 | "Telusa Manasa"          | Enchanting composition that stands the test of time. | Keeravani                |
 | "Meghalu Lekunna"        | Soulful melody and captivating musical arrangement. | Davisriprasd             |
 | "Adiga Adiga"            | Soulful rendition that resonates with emotional depth. | Anirud                 |
+---
+## Favorite Quotes
 
+> "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."  
+> *- Dr. APJ Abdul Kalam*
+
+> "Arise, awake, and stop not until the goal is reached."  
+> *- Swami Vivekananda*
 
