@@ -13,3 +13,6 @@ Pistahouse is my absolute favorite restaurant. It's a place where I can indulge 
 - Botanical Garden
 - Inorbit Mall
 
+[MyMedia](MyMedia.md)
+
+
