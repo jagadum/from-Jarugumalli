@@ -40,3 +40,14 @@ Embark on a musical journey through the heart of Telugu cinema with these carefu
 > "Arise, awake, and stop not until the goal is reached."  
 > *- Swami Vivekananda*
 
+### Code fencing
+ 
+Get information about all CPUs available using the os module.
+
+```
+const os = require('os');
+const value =  os.cpus();
+console.log("os.cpus() ==> " + JSON.stringify(value) );
+```
+
+Link to snippet source is <https://code.pieces.app/collections/node-js>
