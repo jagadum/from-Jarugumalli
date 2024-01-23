@@ -30,6 +30,7 @@ Get information about all CPUs available using the os module.
 ```
 const os = require('os');
 const value =  os.cpus();
+
 console.log("os.cpus() ==> " + JSON.stringify(value) );
 ```
 
