@@ -10,10 +10,10 @@ Pistahouse is my absolute favorite restaurant. It's a place where I can indulge 
 3. Hyderabadi Dum Biryani
 
  ### Places to Visit Nearby
-- IKEA Store
-- DLF Cyber City
-- Gachibowli Stadium
-- Botanical Garden
-- Inorbit Mall
+* IKEA Store
+* DLF Cyber City
+* Gachibowli Stadium
+* Botanical Garden
+* Inorbit Mall
 
 [*Explore more about me*](/MyMedia.md)
